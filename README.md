@@ -184,7 +184,7 @@ sudo apt-get install -y python3-pip python3-venv libasound2-dev portaudio19-dev 
 
 ## License
 
-This project is released under the **MIT License**.
+This project is released under the **Apache-2.0 license**.
 
 You are free to use, copy, modify, and distribute this code in both open and proprietary projects, provided you **retain the original copyright notice and this attribution** in all copies or substantial portions of the Software.
 
